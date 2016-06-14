@@ -1,0 +1,32 @@
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).exe.config
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).exe
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).pdb
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Form1.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Properties.Resources.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).exe
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).pdb
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddNewBank.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddContractors.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddTovar.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.TestConnect.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Categories.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.ContractorsTovar.resources
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Курсова\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.InvoiceSales.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).exe.config
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).exe
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).pdb
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).exe
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\bin\Debug\Godown(0.01).pdb
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).csprojResolveAssemblyReference.cache
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddContractors.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddTovar.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Categories.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.ContractorsTovar.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Form1.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.AddNewBank.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.InvoiceSales.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.Properties.Resources.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown_0._01_.TestConnect.resources
+D:\ItStep\Курсова (ADO.NET)\Godown(0.01)\Godown(0.01)\obj\Debug\Godown(0.01).csproj.GenerateResource.Cache
